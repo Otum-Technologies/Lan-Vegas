@@ -25,3 +25,15 @@ to fix mistakes and formating run
 ```bash
 just fix
 ```
+
+## Testing
+To test the project you need to run it in the terminal
+```aiignore
+python3 main.py
+```
+
+#### If you're using pycharm, you need to edit your running configuration to emulate the Terminal.
+
+![](/docs/terminal-emulator1.png)
+![](/docs/terminal-emulator2.png)
+
