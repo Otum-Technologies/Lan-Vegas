@@ -1,6 +1,9 @@
 [project]
 name = "poker"
 version = "0.1.0"
+dependencies = [
+    "prompt-toolkit>=3.0.53",
+]
 
 [tool.setuptools]
 packages = ["game", "game.sharks"]
